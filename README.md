@@ -21,7 +21,7 @@ See all posts on [Medium](https://medium.com/@domen.lanisnik)!
 
 <hr>
 <p align="center">
-   Feel free to connect and reach out on social media. I am open to new opportunities and collaborations.
+   Feel free to connect and reach out on social media. I am always open to new opportunities and collaborations.
   <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/domenlanisnik/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
