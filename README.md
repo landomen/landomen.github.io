@@ -12,12 +12,16 @@ Compose, Git, Firebase, SQL
 testing, problem-solving, team leadership, scrum, mentoring, communication
 
 ### My recent blog posts
-See all posts on [Medium](https://medium.com/@domen.lanisnik)! 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/0" alt="Recent article #1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/1" alt="Recent article #2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/3" alt="Recent article #3"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/5" alt="Recent article #4"></a>
+- [Screenshot Testing with Compose](https://medium.com/@domen.lanisnik/screenshot-testing-with-compose-9a84bd28b6fb)
+- [5 Kotlin Tips for a Cleaner Codebase](https://medium.com/@domen.lanisnik/5-kotlin-tips-for-a-cleaner-codebase-3582f2e4e2af)
+- [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657) (featured in [Kotlin Weekly](http://www.kotlinweekly.net/) #352)
+- [Modeling Domain Values and Restricted Class Hierarchies in Kotlin](https://medium.com/@domen.lanisnik/modeling-domain-values-and-restricted-class-hierarchies-in-kotlin-88d5555cc2c5)
+- [Exploring the Official Pager Composable in Jetpack Compose](https://medium.com/@domen.lanisnik/exploring-the-official-pager-in-compose-8c2698c49a98)
+- [Getting Started with Feature Flags on Android](https://medium.com/@domen.lanisnik/getting-started-with-feature-flags-on-mobile-7a2a1c15bd14)
+
+
+See all posts on [Medium](https://medium.com/@domen.lanisnik)! 
 
 <hr>
 <p align="center">
