@@ -43,3 +43,42 @@ kotlinOptions.languageVersion = "1.9"
 ```
 
 After syncing the project we receive a suggestion on our existing objects that are a part of a sealed hierarchy to convert them to a `data object`.
+
+![img-description](/assets/img/posts/data-objects-kotlin//convert-suggestion-object.webp)
+_IDE suggestion to convert a sealed sub-object to a data object._
+
+
+![img-description](/assets/img/posts/data-objects-kotlin//convert-suggestion-tostring.webp)
+_IDE suggestion to convert an object with an overridden toString function to a data object._
+
+
+After applying the suggestion, our objects are converted into a `data object`:
+
+
+<script src="https://gist.github.com/landomen/e3f92c426ba7033c414cc8fde94a1ab3.js"></script>
+
+
+And if we print them now, we can see that their string representation now looks similar to a `data class` and only the object name is printed.
+
+
+```kotlin
+Loading
+Success(username=exampleUser1)
+Error
+```
+
+
+## Conclusion
+
+Data objects are a minor new language feature that improves the string representation of an `object`. They are most useful when we have sealed class hierarchies with other data classes and want to print/log them for debugging or analytics purposes.
+
+> Note that data objects are an experimental new language feature in Kotlin at the time of writing this post and that their definition might change in the future.
+
+You can read more details about data objects here:
+
+-   Kotlin KEEP proposal:  [https://github.com/Kotlin/KEEP/blob/data-objects/proposals/data-objects.md](https://github.com/Kotlin/KEEP/blob/data-objects/proposals/data-objects.md)
+-   Kotlin KEEP discussion:  [https://github.com/Kotlin/KEEP/issues/317](https://github.com/Kotlin/KEEP/issues/317)
+-   Kotlin tracker:  [https://youtrack.jetbrains.com/issue/KT-4107/Design-and-implement-a-solution-for-toString-equals-and-hashCode-on-objects-data-object](https://youtrack.jetbrains.com/issue/KT-4107/Design-and-implement-a-solution-for-toString-equals-and-hashCode-on-objects-data-object)
+-   Official Kotlin video:  [https://www.youtube.com/watch?v=ovAqcwFhEGc](https://www.youtube.com/watch?v=ovAqcwFhEGc)
+-   Kotlin 1.7.20 changelog:  [https://kotlinlang.org/docs/whatsnew1720.html#preview-of-the-operator-for-creating-open-ended-ranges](https://kotlinlang.org/docs/whatsnew1720.html#preview-of-the-operator-for-creating-open-ended-ranges)
+
