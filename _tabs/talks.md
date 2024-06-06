@@ -12,7 +12,7 @@ Here are some of my talks that I've given at various conferences over the years.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border-collapse: collapse; border: none;"> 
     <th>Apr 30</th>
-    <th style="padding-left: 30px;">Mastering Feature Flags: Best Practices and Implementation with Firebase Remote Config</th>
+    <th style="padding-left: 30px;"><a href="https://www.youtube.com/watch?v=2LQB9unjdU0" style="text-decoration: none;">Mastering Feature Flags: Best Practices and Implementation with Firebase Remote Config</a></th>
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
