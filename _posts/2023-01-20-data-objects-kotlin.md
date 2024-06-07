@@ -44,11 +44,11 @@ kotlinOptions.languageVersion = "1.9"
 
 After syncing the project we receive a suggestion on our existing objects that are a part of a sealed hierarchy to convert them to a `data object`.
 
-![img-description](/assets/img/posts/data-objects-kotlin//convert-suggestion-object.webp)
+![IDE suggestion to convert a sealed sub-object to a data object.](/assets/img/posts/data-objects-kotlin//convert-suggestion-object.webp)
 _IDE suggestion to convert a sealed sub-object to a data object._
 
 
-![img-description](/assets/img/posts/data-objects-kotlin//convert-suggestion-tostring.webp)
+![IDE suggestion to convert an object with an overridden toString function to a data object.](/assets/img/posts/data-objects-kotlin//convert-suggestion-tostring.webp)
 _IDE suggestion to convert an object with an overridden toString function to a data object._
 
 
