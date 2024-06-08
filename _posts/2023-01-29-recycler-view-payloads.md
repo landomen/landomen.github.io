@@ -4,6 +4,7 @@ description: We’ll take a look on how to use payloads together with DiffUtil t
 date: 2023-01-29 11:00:00 +0100
 categories: [Android Development, Android, RecyclerView]
 tags: [android, recyclerview, xml]
+image: /assets/img/posts/recycler-view-payloads/payloads.gif
 ---
 
 Most apps today display information to users in vertical or horizontal lists. Oftentimes, that information is dynamic and needs to be updated frequently, like the number of views, number of likes, and similar. Additionally, the list can contain images that are loaded from the network. This is why efficiently updating  `RecyclerView`  is an important aspect of having a performant app and providing a great user experience.
