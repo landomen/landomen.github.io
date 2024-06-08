@@ -16,7 +16,7 @@ Here are some of my talks that I've given at various conferences over the years.
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
-    <td style="padding-left: 30px;"><a href="https://android-worldwide.com" style="text-decoration: none;">Android Worldwide</a></td>
+    <td style="padding-left: 30px;"><a href="https://android-worldwide.com" style="text-decoration: none;">Android Worldwide<br>Online</a></td>
   </tr>
 </table>
 
@@ -29,6 +29,6 @@ Here are some of my talks that I've given at various conferences over the years.
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
-    <td style="padding-left: 30px;"><a href="https://it.droidcon.com/2023/" style="text-decoration: none;">droidcon Italy</a></td>
+    <td style="padding-left: 30px;"><a href="https://it.droidcon.com/2023/" style="text-decoration: none;">droidcon Italy<br>Turin, Italy</a></td>
   </tr>
 </table>
