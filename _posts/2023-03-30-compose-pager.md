@@ -138,7 +138,7 @@ The same principle applies to the  `VerticalPager`  with the difference that  `t
 While  `start`,  `end`, and  `horizontal`  only apply the normal padding.
 
 
-![Applying vertical padding to VerticalPager.](/assets/img/posts/compose-pager/content_padding_vertical.gif)
+![Applying vertical padding to VerticalPager.](/assets/img/posts/compose-pager/content_padding_vertical.png)
 _Applying vertical padding to VerticalPager._
 
 
