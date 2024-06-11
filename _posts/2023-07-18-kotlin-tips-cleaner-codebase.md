@@ -4,7 +4,7 @@ description: Let’s take a look at a 5 Kotlin tips for writing code that is eas
 date: 2023-07-18 11:00:00 +0100
 categories: [Kotlin, Android]
 tags: [kotlin, android]
-image: /assets/img/posts/kotlin-cleaner-codebase/cover.jpg
+image: /assets/img/posts/kotlin/cover.jpg
 ---
 
 

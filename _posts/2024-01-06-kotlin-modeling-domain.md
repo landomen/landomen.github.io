@@ -4,7 +4,7 @@ description: Learn different ways how to model domain values and restricted clas
 date: 2024-01-06 11:00:00 +0100
 categories: [Kotlin, Android, Kotlin Multiplatform]
 tags: [kotlin, android, kotlin multiplatform]
-image: /assets/img/posts/kotlin-modeling-domain/cover.jpg
+image: /assets/img/posts/kotlin/cover.jpg
 ---
 
 

@@ -4,7 +4,7 @@ description: Learn what functional interfaces are and how to use them in Kotlin.
 date: 2024-01-24 11:00:00 +0100
 categories: [Kotlin, Android, Kotlin Multiplatform, Java]
 tags: [kotlin, android, kotlin multiplatform, java]
-image: /assets/img/posts/kotlin-functional-interfaces/cover.jpg
+image: /assets/img/posts/kotlin/cover.jpg
 ---
 
 

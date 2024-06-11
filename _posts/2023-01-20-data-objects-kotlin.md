@@ -4,7 +4,7 @@ description: Learn more about a new Kotlin language feature introduced in versio
 date: 2023-01-20 11:00:00 +0100
 categories: [Kotlin, Android]
 tags: [kotlin, android]
-image: /assets/img/posts/data-objects-kotlin/cover.jpg
+image: /assets/img/posts/kotlin/cover.jpg
 ---
 
 Data objects are a new Kotlin language feature introduced in version `1.7.20` and are currently planned to be released in version `1.9`. We’ll take a closer look at what they are and what issue they are trying to solve.
@@ -45,11 +45,11 @@ kotlinOptions.languageVersion = "1.9"
 
 After syncing the project we receive a suggestion on our existing objects that are a part of a sealed hierarchy to convert them to a `data object`.
 
-![IDE suggestion to convert a sealed sub-object to a data object.](/assets/img/posts/data-objects-kotlin//convert-suggestion-object.webp)
+![IDE suggestion to convert a sealed sub-object to a data object.](/assets/img/posts/kotlin/data-objects/convert-suggestion-object.webp)
 _IDE suggestion to convert a sealed sub-object to a data object._
 
 
-![IDE suggestion to convert an object with an overridden toString function to a data object.](/assets/img/posts/data-objects-kotlin//convert-suggestion-tostring.webp)
+![IDE suggestion to convert an object with an overridden toString function to a data object.](/assets/img/posts/kotlin/data-objects/convert-suggestion-tostring.webp)
 _IDE suggestion to convert an object with an overridden toString function to a data object._
 
 
