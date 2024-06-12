@@ -4,7 +4,7 @@ description: Let’s take a closer look at the recently released Pager composabl
 date: 2023-03-30 11:00:00 +0100
 categories: [Kotlin, Android, Compose]
 tags: [kotlin, android, compose]
-image: /assets/img/posts/compose-pager/horizontal_gif_new.gif
+image: /assets/img/posts/compose/pager/horizontal_gif_new.gif
 ---
 
 
@@ -16,7 +16,7 @@ There are two new composables available,  `HorizontalPager`  and  `VerticalPager
 
 HorizontalPager is a composable that allows scrolling horizontally left and right, either by the user or programmatically.
 
-![Horizontal scrolling Pager.](/assets/img/posts/compose-pager/horizontal_gif_new.gif)
+![Horizontal scrolling Pager.](/assets/img/posts/compose/pager/horizontal_gif_new.gif)
 _Horizontal scrolling Pager._
 
 
@@ -29,7 +29,7 @@ _Horizontal scrolling Pager._
 VerticalPager is a composable that allows scrolling vertically up and down, either by the user or programmatically.
 
 
-![Vertical scrolling Pager.](/assets/img/posts/compose-pager/vertical_gif_new.gif)
+![Vertical scrolling Pager.](/assets/img/posts/compose/pager/vertical_gif_new.gif)
 _Vertical scrolling Pager._
 
 
@@ -71,7 +71,7 @@ The  `pageSize: PageSize`  argument allows us to control the size of the pages. 
 
 
 
-![PageSize.Fill](/assets/img/posts/compose-pager/page_size_fill.gif)
+![PageSize.Fill](/assets/img/posts/compose/pager/page_size_fill.gif)
 _PageSize.Fill_
 
 
@@ -79,14 +79,14 @@ _PageSize.Fill_
 We can use `PageSize.Fixed(dp)` to define a fixed size for a page.
 
 
-![PageSize.Fixed(250.dp)](/assets/img/posts/compose-pager/page_size_fixed.gif)
+![PageSize.Fixed(250.dp)](/assets/img/posts/compose/pager/page_size_fixed.gif)
 _PageSize.Fixed(250.dp)_
 
 
 Sometimes we might need to define the size based on a custom calculation. We can do that by extending the `PageSize` interface and implementing the `calculateMainAxisPageSize(availableSpace: Int, pageSpacing: Int)` function. In the below example, we have a `HorizontalPager` that takes 80% of the available width, and we are setting the page size to 50% of the available width. This way we can show two pages at once.
 
 
-![Custom page size calculation.)](/assets/img/posts/compose-pager/page_size_custom.gif)
+![Custom page size calculation.)](/assets/img/posts/compose/pager/page_size_custom.gif)
 _Custom page size calculation._
 
 
@@ -98,11 +98,11 @@ _Custom page size calculation._
 
 With  `pageSpacing: Dp`  argument we can define the amount of space used between pages. Using the previous example of defining the  `pageSize`  as  `PageSize.Fixed(dp)`  and using  `8.dp`  for spacing, we get the following result:
 
-![Page spacing on HorizontalPager.](/assets/img/posts/compose-pager/pageSpacing.gif)
+![Page spacing on HorizontalPager.](/assets/img/posts/compose/pager/pageSpacing.gif)
 _Page spacing on HorizontalPager._
 
 
-![PageSpacing on VerticalPager.](/assets/img/posts/compose-pager/pageSpacingVertical.gif)
+![PageSpacing on VerticalPager.](/assets/img/posts/compose/pager/pageSpacingVertical.gif)
 _PageSpacing on VerticalPager._
 
 
@@ -118,18 +118,18 @@ With the  `contentPadding: PaddingValues`  argument we can control the positioni
 Here we are setting equal padding to both the start and end properties, which centers the page in the middle of the pager. We are also applying vertical padding which in the case of the HorizontalPager adds equal padding to both the top and bottom of the pager.
 
 
-![Applying ContentPadding to the HorizontalPager.](/assets/img/posts/compose-pager/content_padding_horizontal.gif)
+![Applying ContentPadding to the HorizontalPager.](/assets/img/posts/compose/pager/content_padding_horizontal.gif)
 _Applying ContentPadding to the HorizontalPager._
 
 
 Applying the `start` padding only will result in pages being offset toward the end. Meaning that a part of the previous page is visible.
 
-![Applying only the start padding.](/assets/img/posts/compose-pager/content_padding_start.gif)
+![Applying only the start padding.](/assets/img/posts/compose/pager/content_padding_start.gif)
 _Applying only the start padding._
 
 Applying the `end` padding only will result in pages being offset toward the start. Meaning that a part of the next page is visible.
 
-![Applying only the end padding.](/assets/img/posts/compose-pager/content_padding_end.gif)
+![Applying only the end padding.](/assets/img/posts/compose/pager/content_padding_end.gif)
 _Applying only the end padding._
 
 
@@ -138,7 +138,7 @@ The same principle applies to the  `VerticalPager`  with the difference that  `t
 While  `start`,  `end`, and  `horizontal`  only apply the normal padding.
 
 
-![Applying vertical padding to VerticalPager.](/assets/img/posts/compose-pager/content_padding_vertical.png)
+![Applying vertical padding to VerticalPager.](/assets/img/posts/compose/pager/content_padding_vertical.png)
 _Applying vertical padding to VerticalPager._
 
 
@@ -154,14 +154,14 @@ If we want a pager that wraps the height of the items and resizes for each item,
 
 
 
-![HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = 0.](/assets/img/posts/compose-pager/wrap_content_resizing_new.gif)
+![HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = 0.](/assets/img/posts/compose/pager/wrap_content_resizing_new.gif)
 _HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = 0._
 
 
 However, if we want the pager to wrap to the height of the tallest item, then we can specify `beyondBoundsPageCount = pageCount`.
 
 
-![HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = pageCount.](/assets/img/posts/compose-pager/wrap_content_fixed_new.gif)
+![HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = pageCount.](/assets/img/posts/compose/pager/wrap_content_fixed_new.gif)
 _HorizontalPager with wrapContentHeight() and beyondBoundsPageCount = pageCount._
 
 
@@ -189,7 +189,7 @@ Sometimes we would like to react to a page change as it happens. Either to send 
 Together with the Pager we usually want to display an indicator showing which page we are viewing and how many pages there are in total. There is no official page indicator composable available. However, it’s fairly straightforward to create one.
 
 
-![Horizontal page indicator.](/assets/img/posts/compose-pager/page_indicator_new.gif)
+![Horizontal page indicator.](/assets/img/posts/compose/pager/page_indicator_new.gif)
 _Horizontal page indicator._
 
 
@@ -209,7 +209,7 @@ Here is an example of a horizontal pager indicator that shows the pages as a rec
 We can programmatically scroll to a specific page in the pager, by creating a  `PagerState`  object, passing it to the pager, and then calling  `pagerState.scrollToPage(page: Int)`  or  `pagerState.animateScrollToPage(page: Int)`  inside a  `CoroutineScope`.
 
 
-![Programmatically scrolling to a specific page.](/assets/img/posts/compose-pager/scroll.gif)
+![Programmatically scrolling to a specific page.](/assets/img/posts/compose/pager/scroll.gif)
 _Programmatically scrolling to a specific page._
 
 
@@ -222,7 +222,7 @@ _Programmatically scrolling to a specific page._
 We often need to use the pager together with tabs, displaying which tab is selected and allowing selection either by scrolling or clicking on a specific tab. We can achieve this by using  `TabRow`  composable together with a  `HorizontalPager`.
 
 
-![Using Pager with TabRow.](/assets/img/posts/compose-pager/tab_layout.gif)
+![Using Pager with TabRow.](/assets/img/posts/compose/pager/tab_layout.gif)
 _Using Pager with TabRow._
 
 
@@ -250,7 +250,7 @@ We can change the default scroll behavior of the pager by providing a custom  `f
 `pagerSnapDistance`  allows us to define how many pages a fling gesture can scroll past. By default, this is set to one page, however, we can override this using  `PagerSnapDistance.atMost(pages: Int)`. Here is an example of setting snap to scroll 2 pages.
 
 
-![Result of setting pagerSnapDistance to 2 pages instead of default 1.](/assets/img/posts/compose-pager/scroll_snap_2.gif)
+![Result of setting pagerSnapDistance to 2 pages instead of default 1.](/assets/img/posts/compose/pager/scroll_snap_2.gif)
 _Result of setting pagerSnapDistance to 2 pages instead of default 1._
 
 `lowVelocityAnimationSpec`  defines the animation used when you scroll or fling slowly. We’ve set this to 5 seconds in our example, meaning that after a slow fling, the animation to select the next page will take 5 seconds long.
@@ -260,7 +260,7 @@ _Result of setting pagerSnapDistance to 2 pages instead of default 1._
 `snapAnimationSpec`  defines the animation used when finally snapping to a position. That would be when you either scroll enough that the next page is selected or scroll just a little so the current page remains selected. We’ve set this to 1 second in our example.
 
 
-![Custom snap animation spec.](/assets/img/posts/compose-pager/custom_scroll2.gif)
+![Custom snap animation spec.](/assets/img/posts/compose/pager/custom_scroll2.gif)
 _Custom snap animation spec._
 
 
