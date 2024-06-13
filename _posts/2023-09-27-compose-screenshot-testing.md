@@ -152,4 +152,4 @@ Hopefully, this post did a good job highlighting the benefits of screenshot test
 <hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:2px;">
 
 
-Follow me on  [Twitter](https://twitter.com/DomenLanisnik)  and  [LinkedIn](http://www.linkedin.com/in/domenlanisnik).
+Follow me on  [Twitter](https://twitter.com/DomenLanisnik)  and  [LinkedIn](https://www.linkedin.com/in/domenlanisnik).
