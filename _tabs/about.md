@@ -10,6 +10,10 @@ My expertise lies in leveraging the latest frameworks, libraries, and tools to t
 
 I am an avid learner, continuously staying up-to-date with the latest advancements in Android development and actively contributing to the developer community through technical blog posts, conference talks, mentoring, and knowledge sharing. 
 
-If you are seeking a Senior Android Engineer and Team Lead who excels in software architecture and is dedicated to delivering exceptional results, let's connect! I am open to new opportunities and collaborations.
+<hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:2px;">
+
+**If you are seeking a Senior Android Engineer and Team Lead who excels in software architecture and is dedicated to delivering exceptional results, let's connect! I am open to new opportunities and collaborations.**
+
+<hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:2px;">
 
 Skills: Kotlin, Java, Android Jetpack, RxJava, Kotlin Coroutines / Flows, Dagger2/Hilt/Koin, Retrofit, Room, MVVM/MVP/MVI, Compose, Clean Architecture, Continuous Integration and Delivery (CI/CD), Unit and UI testing, Problem-Solving, Communication, Team Leadership, ...
