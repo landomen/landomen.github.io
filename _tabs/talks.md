@@ -7,6 +7,11 @@ order: 5
 
 Here are some of my talks that I've given at various conferences over the years.
 
+
+![droidcon Italy 23](/assets/img/talks/droidcon_italy_23.png)
+_droidcon Italy 2023_
+
+
 ## 2024
 
 <table style="border-collapse: collapse; border: none;">
