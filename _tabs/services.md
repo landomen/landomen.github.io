@@ -3,7 +3,7 @@ icon: fas fa-cart-plus
 order: 6
 ---
 
-Let’s transform your ideas into successful Android applications together. Contact me to discuss how I can support your project and help you achieve your goals.
+Let’s transform your ideas into successful Android applications together. Contact me to discuss how I can support your project and help you achieve your goals. Here are some examples:
 
 **Android App Development**<br>
 With extensive experience in developing robust, scalable, and user-friendly Android applications, I offer full-cycle development services, from concept to deployment. Whether you need a simple utility app or a complex enterprise solution, I ensure your app is crafted with the latest technologies and best practices.
