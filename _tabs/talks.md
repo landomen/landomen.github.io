@@ -15,6 +15,14 @@ _droidcon Italy 2023_
 ## 2024
 
 <table style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;"> 
+    <th>Jul 5</th>
+    <th style="padding-left: 30px;"><a href="https://speakerdeck.com/landomen/guide-to-foreground-service-droidcon-berlin-2024" style="text-decoration: none;">Guide to Foreground Services</a></th>
+  </tr>
+  <tr style="border-collapse: collapse; border: none;">
+    <td></td>
+    <td style="padding-left: 30px;"><a href="https://berlin.droidcon.com/" style="text-decoration: none;">droidcon Berlin<br>Berlin, Germany</a></td>
+  </tr>
   <tr style="border-collapse: collapse; border: none;"> 
     <th>Apr 30</th>
     <th style="padding-left: 30px;"><a href="https://www.youtube.com/watch?v=2LQB9unjdU0" style="text-decoration: none;">Mastering Feature Flags: Best Practices and Implementation with Firebase Remote Config</a></th>
