@@ -68,7 +68,7 @@ It also makes it easy to reuse them across the codebase and modules. For example
 
 This was a short article on how to manage the scope of extension functions to keep our codebase clean. The approaches we covered are using a lower-scope visibility modifier and declaring them inside a class or interface instead of at a top level to make them more contextual.
 
-
+<hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:2px;">
 
 
 Please share your advice in the comments on how you manage extension functions in your projects.
