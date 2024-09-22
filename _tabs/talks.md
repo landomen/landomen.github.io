@@ -38,7 +38,7 @@ _droidcon Italy 2023_
 <table style="border-collapse: collapse; border: none;">
   <tr style="border-collapse: collapse; border: none;"> 
     <th>Oct 13</th>
-    <th style="padding-left: 30px;">Mastering Feature Flags: Best Practices and Implementation with Firebase Remote Config (<a href="https://speakerdeck.com/landomen/mastering-feature-flags-best-practices-and-implementation-with-firebase-remote-config" style="text-decoration: none;">Slides</a>)</th>
+    <th style="padding-left: 30px;"><a href="https://www.youtube.com/watch?v=8qCQE8Ylxw8" style="text-decoration: none;">Mastering Feature Flags: Best Practices and Implementation with Firebase Remote Config</a>  (<a href="https://speakerdeck.com/landomen/mastering-feature-flags-best-practices-and-implementation-with-firebase-remote-config" style="text-decoration: none;">Slides</a>)</th>
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
