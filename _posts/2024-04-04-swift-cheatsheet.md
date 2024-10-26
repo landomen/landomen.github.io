@@ -196,7 +196,7 @@ The main building block in Kotlin is a class. Its declaration and usage are almo
 class Vehicle {
     var maxSpeed = 0
 
-    fun printInto(){
+    fun printInfo(){
         println("Max speed is $maxSpeed")
     }
 }
@@ -243,8 +243,8 @@ if let userId = fetchedUserId {
     throw Error("Missing user id")
 }
 
-// fetchedUserId and userId can be used outside the if statement
-// but both are stil optional, require unwrapping
+// fetchedUserId can be used outside the if statement
+// but is stil optional and requires unwrapping
 ```
 
 
@@ -268,7 +268,7 @@ if let fetchedUserId {
 
 
 
-In both cases the  `fetchedUserId`  and the  `userId`  constants can be used outside of the  `if`  statement, but require additional unwrapping as both are still considered optional.
+In both cases the  `fetchedUserId` can be used outside of the  `if`  statement, but require additional unwrapping as is still considered optional.
 
 **Kotlin**  <br>
 Kotlin doesn’t have an equivalent special pattern for this. One option is to use an  `if/else`  statement. However, that only works for locally scoped variables and not global ones. We must first assign the value to a new local variable/constant to support global variables.
@@ -307,7 +307,7 @@ fetchedUserId?.let { userId ->
 Another common pattern is a  `guard`  statement, which is similar to the  `if let`  pattern. It’s commonly used for early exits from a function. Another difference is that the  `else`  block is required.
 
 ```swift
-func checkUsernameValid(username: String?): Bool {
+func checkUsernameValid(username: String?) -> Bool {
     guard let username else {
         // username is nil, can't evaluate
         return false
