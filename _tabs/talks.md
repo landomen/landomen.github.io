@@ -15,7 +15,15 @@ _droidcon Italy 2023_
 ## 2024
 
 <table style="border-collapse: collapse; border: none;">
-<tr style="border-collapse: collapse; border: none;"> 
+  <tr style="border-collapse: collapse; border: none;"> 
+    <th>Oct 31</th>
+    <th style="padding-left: 30px;"><a href="https://speakerdeck.com/landomen/kotlin-developers" style="text-decoration: none;">Swift Cheatsheet for Android/Kotlin Developers</a> (<a href="https://speakerdeck.com/landomen/kotlin-developers" style="text-decoration: none;">Slides</a>)</th>
+  </tr>
+  <tr style="border-collapse: collapse; border: none;">
+    <td></td>
+    <td style="padding-left: 30px;"><a href="https://london.droidcon.com/" style="text-decoration: none;">droidcon London<br>London, UK</a></td>
+  </tr>
+  <tr style="border-collapse: collapse; border: none;"> 
     <th>Jul 5</th>
     <th style="padding-left: 30px;"><a href="https://www.droidcon.com/2024/08/30/guide-to-foreground-services/" style="text-decoration: none;">Guide to Foreground Services</a> (<a href="https://speakerdeck.com/landomen/guide-to-foreground-service-droidcon-berlin-2024" style="text-decoration: none;">Slides</a>)</th>
   </tr>
