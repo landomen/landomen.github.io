@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Experienced Senior Android Engineer with 10 years of experience and a proven track record of success in architecting and developing large-scale mobile applications. With an additional 3 years of experience as a Team / Tech Lead, I have successfully led cross-functional teams, driving project success and fostering a collaborative work environment.
+Senior Android Engineer with 10+ years of experience architecting and developing large-scale Android applications. Additional 3 years of experience as a Team / Tech Lead, leading cross-functional teams of up to 8 developers across Android, iOS, Backend, and Web platforms.
 
-My expertise lies in leveraging the latest frameworks, libraries, and tools to translate complex business requirements into efficient, maintainable code that prioritizes performance, user experience, and scalability. I possess a deep understanding of software architecture and a passion for creating scalable and robust solutions.
+Author of an Android blog with over 1.6k followers and 10k monthly views, and a regular speaker at industry-leading Android conferences such as droidcon Berlin, droidcon London, and droidcon Italy.
 
-I am an avid learner, continuously staying up-to-date with the latest advancements in Android development and actively contributing to the developer community through technical blog posts, conference talks, mentoring, and knowledge sharing. 
+If you are seeking a Senior Android Engineer and Team Lead who excels in software architecture and is dedicated to delivering exceptional results, let's connect! I am open to new opportunities and collaborations.
 
 <hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:2px;">
 
