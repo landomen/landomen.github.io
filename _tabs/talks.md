@@ -11,6 +11,18 @@ Here are some of my talks that I've given at various conferences over the years.
 ![droidcon Italy 23](/assets/img/talks/droidcon_italy_23.png)
 _droidcon Italy 2023_
 
+## 2025
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border-collapse: collapse; border: none;"> 
+    <th>Mar 21</th>
+    <th style="padding-left: 30px;"><a href="https://speakerdeck.com/landomen/guide-to-foreground-services-on-android" style="text-decoration: none;">Guide to Foreground Services on Android</a>  (<a href="https://speakerdeck.com/landomen/guide-to-foreground-services-on-android" style="text-decoration: none;">Slides</a>)</th>
+  </tr>
+  <tr style="border-collapse: collapse; border: none;">
+    <td></td>
+    <td style="padding-left: 30px;"><a href="https://it.droidcon.com/2023/" style="text-decoration: none;">Appdevcon<br>Amsterdam, Netherlands</a></td>
+  </tr>
+</table>
 
 ## 2024
 
