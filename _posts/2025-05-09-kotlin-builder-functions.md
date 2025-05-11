@@ -187,3 +187,9 @@ The Kotlin Standard Library offers several convenience functions for building co
 
 
 I hope you found this useful and learned something new. Let me know what other builder functions you’re using.
+
+<hr style="width:50%; margin-left:25% !important; margin-right:25% !important; height:4px;">
+
+  
+
+***Consider following me on Medium to get latest articles as they come out: [https://medium.com/@domen.lanisnik](https://medium.com/@domen.lanisnik)***
