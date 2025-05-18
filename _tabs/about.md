@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 Senior Android Engineer with 10+ years of experience architecting and developing large-scale Android applications. Additional 3 years of experience as a Team / Tech Lead, leading cross-functional teams of up to 8 developers across Android, iOS, Backend, and Web platforms.

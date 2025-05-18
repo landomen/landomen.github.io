@@ -1,6 +1,6 @@
 ---
 icon: fas fa-cart-plus
-order: 6
+order: 3
 ---
 
 Let’s transform your ideas into successful Android applications together. Contact me to discuss how I can support your project and help you achieve your goals. Here are some examples:
