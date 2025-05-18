@@ -20,7 +20,7 @@ _droidcon Italy 2023_
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
-    <td style="padding-left: 30px;"><a href="https://it.droidcon.com/2023/" style="text-decoration: none;">Appdevcon<br>Amsterdam, Netherlands</a></td>
+    <td style="padding-left: 30px;"><a href="https://appdevcon.nl/" style="text-decoration: none;">Appdevcon<br>Amsterdam, Netherlands</a></td>
   </tr>
 </table>
 
