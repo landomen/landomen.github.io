@@ -1,5 +1,5 @@
 ---
-title: Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop':' Part 1 — Getting Started with KMP
+title: "Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop: Part 1 — Getting Started with KMP"
 description: The first part of a series of articles focusing on building a Compose Multiplatform app. for Android, iOS, and Desktop that displays the latest Space News.
 date: 2025-02-11 19:00:00 +0100
 categories: [Compose Multiplatform, Kotlin Multiplatform, Compose, Android, iOS, Desktop]
