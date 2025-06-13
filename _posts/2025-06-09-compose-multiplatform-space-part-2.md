@@ -26,11 +26,10 @@ _Showcase of the final app._
 ## Recap of the first part — Getting Started
 
 This article continues from where the first part left off, so make sure to start there if you haven’t yet:
-[/posts/compose-multiplatform-space-part-1/](/posts/compose-multiplatform-space-part-1/)
+[Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop: Part 1 — Getting Started with KMP](https://landomen.github.io/posts/compose-multiplatform-space-part-1/).
 
 
-
-In the  [first part]([/posts/compose-multiplatform-space-part-1/), we built a simple (for now) news app and took a look at how:
+In the  [first part](https://landomen.github.io/posts/compose-multiplatform-space-part-1/), we built a simple (for now) news app and took a look at how:
 
 -   to create a new KMP project with shared UI using Compose Multiplatform,
 -   to run the app on different platforms,
