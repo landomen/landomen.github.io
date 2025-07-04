@@ -679,6 +679,3 @@ You can find the source code for this part here:
 -   [https://kmp.jetbrains.com/](https://kmp.jetbrains.com/)
 -   [https://www.jetbrains.com/compose-multiplatform/](https://www.jetbrains.com/compose-multiplatform/)
 -   [https://spaceflightnewsapi.net/](https://spaceflightnewsapi.net/)
-
-[  
-](https://medium.com/tag/kotlin-multiplatform?source=post_page-----1efe6545f885---------------------------------------)

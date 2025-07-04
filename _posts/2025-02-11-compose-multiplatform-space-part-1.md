@@ -790,7 +790,7 @@ _Final app running on Android, iOS, and Desktop._
 
 Wouldn’t it be great to add visualization to the app and display a cover image next to each article? It certainly would. The challenge is for you to add loading and displaying of images in the app from an URL.
 
-You can use the  [Coil](https://coil-kt.github.io/coil/)  image loading library to simplify the process. If you get stuck, feel free to follow this guide that I’ve prepared:  [Loading Images with Coil in Compose Multiplatform](https://medium.com/@domen.lanisnik/loading-images-with-coil-in-compose-multiplatform-4c94e16a06d7).
+You can use the  [Coil](https://coil-kt.github.io/coil/)  image loading library to simplify the process. If you get stuck, feel free to follow this guide that I’ve prepared:  [Loading Images with Coil in Compose Multiplatform](https://landomen.github.io/posts/compose-multiplatform-coil/).
 
 
 ![Updated app with cover images for each article.](/assets/img/posts/compose/multiplatform/space-flight/part-1/android_images_final.png)
