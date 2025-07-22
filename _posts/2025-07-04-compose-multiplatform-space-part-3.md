@@ -24,7 +24,7 @@ _Showcase of the final app._
 ## Recap of the first two parts
 
 This article continues from where the second part left off, so make sure to start there if you haven’t yet: 
-[Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop: Part 2](https://proandroiddev.com/building-a-space-flight-news-app-with-compose-multiplatform-for-android-ios-and-desktop-part-2-d8541e15aaa6)
+[Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop: Part 2](https://landomen.github.io/posts/compose-multiplatform-space-part-2/)
 
 
 So far, we’ve learned the following:
