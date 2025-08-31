@@ -1,7 +1,7 @@
 ---
 title: "Building a Space Flight News App with Compose Multiplatform for Android, iOS, and Desktop: Part 5 - Native Interactions"
 description: "The fifth part of building a Compose Multiplatform app: native interactions."
-date: 2025-07-22 18:35:00 +0200
+date: 2025-08-11 18:35:00 +0200
 categories: [Compose Multiplatform, Kotlin Multiplatform, Compose, Android, iOS, Desktop]
 tags: [compose multiplatform, compose multiplatform, kmp, compose android, jetpack compose, ios, desktop]
 image: /assets/img/posts/compose/multiplatform/space-flight/part-2/mid_combined.png
