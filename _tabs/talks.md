@@ -15,6 +15,14 @@ _droidcon Italy 2023_
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border-collapse: collapse; border: none;"> 
+    <th>Oct 30</th>
+    <th style="padding-left: 30px;"><a href="https://speakerdeck.com/landomen/guide-to-foreground-services-81b4346c-f905-4286-938c-89b231e3cabb" style="text-decoration: none;">Guide to Foreground Services on Android</a>  (<a href="https://speakerdeck.com/landomen/guide-to-foreground-services-81b4346c-f905-4286-938c-89b231e3cabb" style="text-decoration: none;">Slides</a>)</th>
+  </tr>
+  <tr style="border-collapse: collapse; border: none;">
+    <td></td>
+    <td style="padding-left: 30px;"><a href="https://appdevcon.nl/" style="text-decoration: none;">droidcon London<br>London, UK</a></td>
+  </tr>
+<tr style="border-collapse: collapse; border: none;"> 
     <th>Oct 2</th>
     <th style="padding-left: 30px;"><a href="https://www.meetup.com/android-meetup-slovenija/events/311182291/?eventOrigin=group_past_events" style="text-decoration: none;">Getting started with Compose Multiplatform</a></th>
   </tr>
