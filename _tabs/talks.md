@@ -16,7 +16,7 @@ _droidcon Italy 2023_
 <table style="border-collapse: collapse; border: none;">
 <tr style="border-collapse: collapse; border: none;"> 
     <th>Oct 30</th>
-    <th style="padding-left: 30px;"><a href="https://speakerdeck.com/landomen/guide-to-foreground-services-81b4346c-f905-4286-938c-89b231e3cabb" style="text-decoration: none;">Guide to Foreground Services on Android</a>  (<a href="https://speakerdeck.com/landomen/guide-to-foreground-services-81b4346c-f905-4286-938c-89b231e3cabb" style="text-decoration: none;">Slides</a>)</th>
+    <th style="padding-left: 30px;"><a href="https://www.youtube.com/watch?v=p5ehVNvB4WY" style="text-decoration: none;">Guide to Foreground Services on Android</a>  (<a href="https://speakerdeck.com/landomen/guide-to-foreground-services-81b4346c-f905-4286-938c-89b231e3cabb" style="text-decoration: none;">Slides</a>)</th>
   </tr>
   <tr style="border-collapse: collapse; border: none;">
     <td></td>
